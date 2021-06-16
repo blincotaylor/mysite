@@ -1,0 +1,102 @@
+/*** TAG SELECTORS ***/
+
+body {
+  margin: 0;
+  background-color: #F7FBFC;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+div {
+  margin: 0;
+}
+
+h3 {
+  color: #11999E;
+}
+
+a{
+  color: #11999E;
+}
+
+/*** CLASS SELECTORS ***/
+
+.cloud {
+  position: absolute;
+}
+
+.codegif {
+  height: 20rem;
+  width: 20rem;
+}
+
+.name {
+  color: #66BFFF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.6rem; /* 16px = 100% = 1em */
+  text-align: center;
+  margin: 0;
+}
+
+.p1 {
+  color: #66BFFF;
+  font-family: 'Viaoda Libre', cursive;
+  font-size: 1.5rem;
+  text-align: center;
+  font-weight: bolder;
+  margin: 0
+}
+
+.top-container {
+    background-color: #D6E6F2;
+    font-family: 'Viaoda Libre', cursive;
+    padding: 20% 0 0;
+    position: relative;
+  }
+
+.middle-container {
+  }
+
+.contact-me {
+  padding-bottom: 1%;
+}
+
+.bottom-container {
+  background-color: #D6E6F2;
+  padding-top: 2%;
+  }
+
+.frontend {
+  font-style: italic;
+}
+
+.webdev {
+  margin: 0;
+}
+
+/*** ID SELECTORS ***/
+
+#cloud1 {
+  top: 25%;
+  right: 20%;
+}
+
+#cloud2 {
+  bottom: 30%;
+  left: 20%;
+}
+
+#taylor {
+  height: 130px;
+  width: 130px;
+}
+
+#mountain {
+  height: 200px;
+  width: 350px;
+  margin: 0 auto;
+}
